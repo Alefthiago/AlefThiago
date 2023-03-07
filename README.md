@@ -34,7 +34,6 @@
     <img aling = "center" alt = "js" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" width = "50px" heigth = "50px">
     <img aling = "center" alt = "JAVA" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" width = "50px" heigth = "50px">
     <img aling = "center" alt = "PHP" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" width = "50px" heigth = "50px">
-    <img aling = "center" alt = "NODE.JS" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" width = "50px" heigth = "50px">
 </div>
 
 <div style="display: inline_block">
