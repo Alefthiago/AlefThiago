@@ -13,7 +13,10 @@
 </div>
     
 #
-   
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefthiago&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefthiago&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 # Tecnologias.
 <div style="display: inline_block">
