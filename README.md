@@ -39,7 +39,3 @@
 <div style="display: inline_block">
     <img aling = "center" alt = "svelte" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Svelte.svg" width = "50px" heigth = "50px">
 </div>
-    
-#
-    
-![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
