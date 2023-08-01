@@ -1,4 +1,4 @@
-### console.log("Olá, mundo!");
+### console.log("Olá, GitHub!");
 
 # Bem-vindo(a) ao meu perfil.
 
@@ -33,7 +33,16 @@
     <img aling = "center" alt = "js" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" width = "50px" heigth = "50px">
     <img aling = "center" alt = "JAVA" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" width = "50px" heigth = "50px">
     <img aling = "center" alt = "PHP" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" width = "50px" heigth = "50px">
+    <img aling = "center" alt = "NodeJs" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" width = "50px" heigth = "50px">
+    <img aling = "center" alt = "Mysql" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" width = "50px" heigth = "50px">
 </div>
 
 <div style="display: inline_block">
+    <img aling = "center" alt = "Vue" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Dark.svg" width = "50px" heigth = "50px">    
+</div>
+
+<div style="display: inline_block">
+    <img aling = "center" alt = "linux" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" width = "50px" heigth = "50px">    
+    <img aling = "center" alt = "Git" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width = "50px" heigth = "50px">
+    <img aling = "center" alt = "GitHub" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" width = "50px" heigth = "50px">
 </div>
