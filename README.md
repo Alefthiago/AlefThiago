@@ -6,8 +6,6 @@
 <div style = "display: flex">
 
 <div>
-<a href = "https://www.linkedin.com/in/alef-silva-8a9819257/">
-    <img aling = "center" alt = "linkedin" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width = "50px" heigth = "50px">
 <a href = "https://www.instagram.com/aleft_silva/">
     <img aling = "center" alt = "instagram" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" width = "50px" heigth = "50px">
 </div>
