@@ -1,4 +1,4 @@
-### console.log("Olá, GitHub!");
+### System.out.println("Olá, GitHub!");
 
 # Bem-vindo(a) ao meu perfil.
 
